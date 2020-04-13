@@ -7,4 +7,5 @@ package com.imooc.luckymoney;
 public class Test1 {
   //111
   //222
+    //000
 }
