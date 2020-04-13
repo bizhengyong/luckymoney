@@ -2,7 +2,7 @@ package com.imooc.luckymoney;
 
 /**
  * @author bizy
- * @date 2020/4/13 15:13
+ * @date 2020/4/13 15:18
  */
-public class Test {
+public class test2 {
 }
